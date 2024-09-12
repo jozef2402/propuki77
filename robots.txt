@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ecodigest.net/admin/upfiles/sitemap.xml
+Sitemap: http://propuki77.v8.js.cn/sitemap.xml
